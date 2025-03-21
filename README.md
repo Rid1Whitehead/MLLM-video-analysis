@@ -17,7 +17,7 @@ The code demonstrates methods for analyzing images and videos to extract and ann
 
 ---
 
-## Repository Structure
+## Repository Content
 
 - **requirements.txt**  
   Lists the Python dependencies:
@@ -53,10 +53,10 @@ The code demonstrates methods for analyzing images and videos to extract and ann
   - Processes a video (e.g., `example_video.mp4`) by tracking objects every N-th frame
   - Crops detected objects and saves them to an output directory
 
-- **yolov8n-pose.pt** *(non-accessible)*  
+- **yolov8n-pose.pt**  
   A pre-trained YOLO model used by `Extract_persons_with_ID.py` for pose estimation.
 
-- **example_video.mp4** *(non-accessible)*  
+- **example_video.mp4**
   A sample video file to test the video processing script.
 
 ---
