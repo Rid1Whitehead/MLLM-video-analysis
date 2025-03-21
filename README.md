@@ -136,10 +136,18 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 ---
 
+## Example prompt
+
+This prompt was the one used in the study this code was use for. Here is the complete prompt:
+
+"Analyze the image provided and categorize the visible actions and postures according to the following list. The image should be scanned for the individuals’body language. You are to identify and list only the categories that apply to each individual depicted in the image. Ensure no explanations or elaborations are included—only list the categories that are clearly observed in the image. Categories to Identify: Sitting (SIT), Standing (STD), engaged with computer peripherals (ECP), One or two arms resting on table (ART), Hands holding task-related object (HTR), One or two hands on face/neck/ear area (HFN), Hands touching each other/clasped OR hand(s) touching their arm (HTC), Leaning on table with one or both hands (LTB), one or both hands resting on laps (HRL). Begin bydetermining if they are sitting or standing. Once the posture is established, focus on the placement and activity of the hands and arms. Check where the hands are placed in comparison to the keyboard and mouse, if any. The categories are only applicable iftheir hands are directly engaged with them. Pay attention to the resting position of the arms, whether on a table or elsewhere. Look for any objects that might be held in the hands and are relevant to the task at hand. These would include, stationary, paper, balls, etc. Evaluate the facial area to determine if hands are present there. Identify if hands are in contact with each other, suggesting clasping or other forms of touch. Check if there are any hands resting on their lap. Check if they are giving their weight on the table with their hands. The result should be the short version of their names listed. Example: SIT, HTR, LTB."
+
+---
+
 ## Citation
 
 If you use this code in your research, please cite the accompanying paper:  
-*Whitehead, R., Nguyen, A., & Järvelä, S. (2025). Utilizing Multimodal Large Language Models for Video Analysis of Posture in Studying Collaborative Learning: A Case Study. Journal of Learning Analytics.*
+*Whitehead, R., Nguyen, A., & Järvelä, S. (2025). Utilizing Multimodal Large Language Models for Video Analysis of Posture in Studying Collaborative Learning: A Case Study. Journal of Learning Analytics, 1-15. https://doi.org/10.18608/jla.2025.8595*
 
 ---
 
