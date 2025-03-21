@@ -13,7 +13,7 @@ The code demonstrates methods for analyzing images and videos to extract and ann
 
 ---
 
-![data pipeline latest drawio](https://github.com/user-attachments/assets/b55d5d1f-503d-40fa-83db-8f944c84c063)
+![data pipeline drawio](https://github.com/user-attachments/assets/3b4a8799-423a-4a89-94ac-26380f4f7b7d)
 
 ---
 
