@@ -1,4 +1,4 @@
-# Multimodal Learning Analytics for Posture Analysis in Collaborative Learning
+# Multimodal large language models for Posture Analysis in Collaborative Learning from video
 
 This repository contains the companion code for the paper:
 
